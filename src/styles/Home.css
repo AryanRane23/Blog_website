@@ -1,0 +1,26 @@
+.display-title{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    width: 100%; /* Ensure it fits within the container */
+    height: auto; /* Allow dynamic height based on content */
+    word-wrap: break-word; /* Wrap long words */
+    margin-bottom: 0.5rem;  /* Some spacing below the title */
+}
+.display-desc{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 100%;
+    height: auto;
+    word-wrap: break-word;
+}
+.display-image{
+    margin-left: 25%;   
+}
+      
+.deleteModal {
+    transition: all 0.4s;
+}

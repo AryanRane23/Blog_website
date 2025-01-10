@@ -1,0 +1,13 @@
+.Story-Preview{
+    position: absolute;
+    left: 300px;
+    top: 10px;
+}
+
+
+.subtitle{
+    position: absolute;
+    top: 57%;
+    left: 27%;
+    width: 40%;
+}

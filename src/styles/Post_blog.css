@@ -1,0 +1,69 @@
+/* body{
+    background-color: gray;
+} */
+
+.logoName{
+    position: absolute;
+    left:230px
+}
+
+.title {
+    position: absolute;
+    left: 27%;
+    top: 13%;
+    width: 40%;
+    height: 10%;
+}
+
+.desc{
+    position: absolute;
+    left: 419px;
+    top: 22%;
+    width: 40%;
+}
+
+
+.title-error{
+    color: red;
+    position: absolute;
+    left: 420px;
+    top: 133px;
+    font-size: 13px;
+}
+.desc-error{
+    color: red;
+    position: absolute;
+    left: 420px;
+    top: 190px;
+    font-size: 13px; 
+}
+
+
+.uploadImg{
+    font-size: 20px;
+    position: absolute;
+    top: 17px;
+    right: 31%;
+    font-size: 17px;
+    /* /* margin-right: 5px; */
+}
+
+
+.publish-btn{
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    right: 26%;
+    position: absolute;
+    top: 17px;
+    font-size: smaller;
+}
+
+.dropdown{
+    right: 363px;
+    position: absolute;
+    top: 18px;
+}
+
+      
